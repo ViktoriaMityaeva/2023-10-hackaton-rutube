@@ -1,11 +1,12 @@
 | Организатор  | Кейсодержатель |
 | ------------- | ------------- |
 | <img width="600" height="300" alt="image" src="https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube/blob/main/static-all/cplogo.jpg">  | <img width="600" height="300" alt="image" src="https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube/blob/main/static-all/rutube-logo.jpg">  |
+
 # Распознавание именованных сущностей в названиях и описаниях к видео
 
 ## Оглавление
 1. [Задание](#zadanie)
-2. [Решение](#solution)
+2. [Описание решения](#solution)
 3. [Запуск](#startup)
 4. [Фичи](#fichi)
 5. [Стек](#stack)
@@ -23,7 +24,7 @@
 Решение будет здесь
 
 ### Архетиктура модели
-<img width="1200" height="300" alt="image" src="https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube/blob/main/static-all/arch-model.jpg"> 
+<img width="900" height="600" alt="func_scheme" src="https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube/blob/main/static-all/func_model.png"> 
 
 <br>
 <p>Предобработка текста</p>
