@@ -23,8 +23,8 @@
 
 Решение будет здесь
 
-### Архетиктура модели
-<img width="900" height="600" alt="func_scheme" src="https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube/blob/main/static-all/func_model.png"> 
+### Функциональная модель
+<img width="900" height="400" alt="func_scheme" src="https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube/blob/main/static-all/func_model.png"> 
 
 <br>
 <p>Предобработка текста</p>
