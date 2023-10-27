@@ -1,5 +1,4 @@
-# ЦИФРОВОЙ ПРОРЫВ: СЕЗОН ИИ. Пермь
-<img width="600" height="400" alt="photo-rutube" src="https://kiyasovo.ru/upload/resize_cache/iblock/00e/u7rg5h80j9q8b0q8yrjtkfep3rlry16j/888_500_2/B8162fhnMEQ.jpg">
+<img width="600" height="400" alt="photo-rutube" src="https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube/blob/main/static-all/cplogo.jpg>
 # Распознавание именованных сущностей в названиях и описаниях к видео
 <img width="600" height="400" alt="photo-rutube" src="https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube/blob/main/static-all/rutube-logo.jpg">
 ## Оглавление
