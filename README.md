@@ -1,6 +1,9 @@
-<img width="600" height="400" alt="photo-rutube" src="https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube/blob/main/static-all/cplogo.jpg">
 # Распознавание именованных сущностей в названиях и описаниях к видео
-<img width="600" height="400" alt="photo-rutube" src="https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube/blob/main/static-all/rutube-logo.jpg">
+
+| Организатор  | Кейсодержатель |
+| ------------- | ------------- |
+| <img width="100" height="50" alt="image" src="https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube/blob/main/static-all/cplogo.jpg">  | <img width="100" height="50" alt="image" src="https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube/blob/main/static-all/rutube-logo.jpg">  |
+
 ## Оглавление
 1. [Задание](#zadanie)
 2. [Решение](#solution)
