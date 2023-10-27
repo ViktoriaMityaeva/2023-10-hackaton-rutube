@@ -1,9 +1,6 @@
-# <p align="center"> ЦИФРОВОЙ ПРОРЫВ: СЕЗОН ИИ. Пермь </p>
-# <p align="center"> Распознавание именованных сущностей в названиях и описаниях к видео </p>
-<p align="center">
+# ЦИФРОВОЙ ПРОРЫВ: СЕЗОН ИИ. Пермь
+# Распознавание именованных сущностей в названиях и описаниях к видео
 <img width="600" height="400" alt="photo-rutube" src="https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube/blob/main/static-all/rutube-logo.jpg">
-
-</p> 
 
 
 ## Оглавление
