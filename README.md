@@ -8,7 +8,6 @@
 1. [Задание](#zadanie)
 2. [Описание решения](#solution)
 3. [Запуск](#startup)
-4. [Фичи](#fichi)
 5. [Стек](#stack)
 6. [Команда](#team)
 7. [Ссылки](#urls)
@@ -50,13 +49,13 @@
 git clone https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube.git
 ```
 
-## <a name="fichi">Фичи </a>
-
-Мы используем комбинацию моделей для распознавания цифр с предварительной предобработкой выравниванием изображения в перспективе и последующей постобработкой в виде эвристик связанных с количеством предсказанных цифр
 
 ## <a name="stack">Стек </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube/blob/main/static-all/scikit.jpg" title="scikit" alt="scikit" width="40" height="60"/>&nbsp;
+  <img src="https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube/blob/main/static-all/scikit.jpg" title="scikit" alt="scikit" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube/blob/main/static-all/spacy.jpg" title="spacy" alt="spacy" width="50" height="40"/>&nbsp;
+  <img src="https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube/blob/main/static-all/torch.jpg" title="torch" alt="torch" width="50" height="40"/>&nbsp;
+  <img src="https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube/blob/main/static-all/transformers.jpg" title="transformers" alt="transformers" width="60" height="40"/>&nbsp;
 
 ## <a name="team">Команда </a>
 
