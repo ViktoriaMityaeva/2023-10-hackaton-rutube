@@ -42,7 +42,7 @@ git clone https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube.git
 
 2. перейдите в каталог;    
 ```Bash
-cd 2023-10-hackaton-rutube\dataset
+cd 2023-10-hackaton-rutube\app
 ```
 
 3. Создайте виртуальную среду;    
@@ -74,10 +74,10 @@ jupyter-notebook
 ## <a name="team">Команда </a>
 
 *Состав команды "RGB"*    
-*Артем Франчук   
-*Виктория Митяева
-*София Филина 
-*Михаил Нуридинов
+*Артем Франчук    
+*Виктория Митяева    
+*София Филина    
+*Михаил Нуридинов    
 
 ## <a name="urls">Ссылки </a>
  
