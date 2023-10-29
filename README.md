@@ -56,6 +56,7 @@ git clone https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube.git
 
 ## <a name="stack">Стек </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/ViktoriaMityaeva/2023-10-hackaton-rutube/blob/main/static-all/scikit.jpg" title="scikit" alt="scikit" width="40" height="60"/>&nbsp;
 
 ## <a name="team">Команда </a>
 
