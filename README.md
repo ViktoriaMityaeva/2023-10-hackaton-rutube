@@ -81,4 +81,5 @@ jupyter-notebook
 
 ## <a name="urls">Ссылки </a>
  
-- [ссылка на весы модели](https://disk.yandex.ru/d/oi_83x6jAtDpZA)    
+- [ссылка на весы модели 1](https://disk.yandex.ru/d/oi_83x6jAtDpZA)    
+- [ссылка на весы модели 2](https://drive.google.com/drive/folders/1Psu7eFZSLtYSfzTw70ntiEaMLb1zE2c-?usp=sharing)    
